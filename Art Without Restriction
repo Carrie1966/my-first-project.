@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Without No Restricton</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="Logo" class="logo">
+    <h1>About the Artist</h1>
+  
+  <nav class="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+</header>
+
+  <main class="about">
+    <section>
+      <h2>Welcome</h2>
+      <p>Hello! I'm Caroline, a passionate artist based in [Your Location]. My work explores colour, texture, and emotion through various mediums including oil, acrylic, and watercolour. Each piece tells a story, and I hope it connects with you.</p>
+
+      <h2>Background</h2>
+      <p>With over 10 years of experience, my art has been featured in local exhibitions and private collections. I draw inspiration from nature, people, and abstract forms. Creating art is not just my profession—it's my way of sharing perspective.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Art by Caroline. All rights reserved.</p>
+  </footer>
+
+
+</body></html>
